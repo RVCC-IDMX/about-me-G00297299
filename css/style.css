@@ -1,0 +1,30 @@
+body {
+    font-family: Roboto;
+    background-color: #5F9EA0;
+    color: #FFFAFA;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family:"Alkatra";
+    font-size:40pt;
+
+}
+
+header {
+    text-align: center;
+}
+
+#hero, footer {
+    border: 2px solid; 
+    background-color: #008b8b;
+    text-align :center;
+    padding:10px;
+}
+
+#hero img {
+    width:300px;
+}
+
+#bio {
+    text-align: center;
+}
