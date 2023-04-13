@@ -34,4 +34,5 @@ header {
 
 #hobbies ul li:nth-last-child(even) {
     color:black;
+    ;
 }
